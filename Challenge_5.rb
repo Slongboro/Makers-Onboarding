@@ -6,4 +6,4 @@ def numbers(number)
     puts "Your number is a negative number "
   end
 end
-puts numbers(23)
+numbers(23)
